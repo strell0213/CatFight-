@@ -1,0 +1,47 @@
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\bin\Debug\CatsFights!.exe.config
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\bin\Debug\CatsFights!.exe
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\bin\Debug\CatsFights!.pdb
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.AssemblyReference.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\MainWindow.g.cs
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!_MarkupCompile.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!_MarkupCompile.lref
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\MainWindow.baml
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.g.resources
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights_.Properties.Resources.resources
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.exe
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\CatsFights!\CatsFights!\obj\Debug\CatsFights!.pdb
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\CatsFights!.exe.config
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\CatsFights!.exe
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\CatsFights!.pdb
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\EntityFramework.dll
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\EntityFramework.xml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.AssemblyReference.cache
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\MainCat.g.cs
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\MainWindow.g.cs
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!_MarkupCompile.cache
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!_MarkupCompile.lref
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\MainCat.baml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\MainWindow.baml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.g.resources
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights_.Properties.Resources.resources
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.csproj.CopyComplete
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.exe
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!.pdb
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\CatsFightDB.db
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\System.Data.SQLite.dll
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\bin\Debug\System.Data.SQLite.xml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\FightWindow.g.cs
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\FightWindow.baml
+C:\Users\strel\Desktop\Колледж\CatsFight\CatsFights!\CatsFights!\obj\Debug\CatsFights!_Content.g.cs
